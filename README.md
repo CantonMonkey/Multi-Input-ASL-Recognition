@@ -17,3 +17,15 @@ PyTorch 1.9+ or TensorFlow 2.5+
 CUDA 11.0+ (for GPU acceleration)
 OpenCV 4.5+
 Additional dependencies listed in requirements.txt
+
+
+**Citation**
+If you use this code in your research, please cite:
+Copy@software{your_project,
+  author = {CantonMonkey},
+  title = {Deep Learning based ASL Real-Time Recognition System},
+  year = {2025},
+  url = {https://github.com/CantonMonkey/project-name}
+}
+
+**Acknowledgements**
