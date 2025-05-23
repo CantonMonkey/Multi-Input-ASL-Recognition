@@ -26,7 +26,7 @@ Copy@software{your_project,
   author = {CantonMonkey},
   title = {Deep Learning based ASL Real-Time Recognition System},
   year = {2025},
-  url = {https://github.com/CantonMonkey/project-name}
+  url = {[https://github.com/CantonMonkey/project-name](https://github.com/CantonMonkey/Multi-Input-ASL-Recognition)}
 }
 
 **References**
