@@ -15,8 +15,8 @@ User-friendly visualization of detection results
 
 **Requirements**
 
-For model training: listed in ./model_training/requirements.txt
-For real=time recognition: listed in ./requirements.txt
+For model training & real time recognition via webcam: listed in requirements.txt
+For HuggingFace deployment: listed in requirements_HF.txt
 
 
 **Citation**
